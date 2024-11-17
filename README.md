@@ -1,5 +1,7 @@
  # ML Model CI/CD Pipeline
 
+ [![ML Pipeline](https://github.com/garima-mahato/ERAV3_Session5_NNAndMLOps/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/garima-mahato/ERAV3_Session5_NNAndMLOps/actions/workflows/ml-pipeline.yml)
+
 This repository demonstrates a CI/CD pipeline for a simple Deep Neural Network trained on the MNIST dataset. The project includes automated testing, model validation, and a deployment process using GitHub Actions.
 
 ## Project Structure
@@ -122,7 +124,7 @@ Test set: Average loss: 0.0416, Accuracy: 9876/10000 (98.76%)
 ```
 
 ### Image Augmentation
-![Image Augmentation](./assets/image_aug.png) 
+![Image Augmentation](https://raw.githubusercontent.com/garima-mahato/ERAV3_Session5_NNAndMLOps/refs/heads/main/assets/img_aug.png) 
 
 ## Requirements
 - Python 3.8+
